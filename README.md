@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tinyunknown
+- 👋 Hi, I’m @Tinyunknown, but call me Ligig!
 - 👀 I’m interested in coding and game developement
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on small game projects
