@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tinyunknown, but call me Ligig!
+- 👋 Hi, I’m @Tinyunknown, but you can also call me Ligig!
 - 👀 I’m interested in coding and game developement
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on small game projects
 - 📫 How to reach me: Discord: tinyunknown156#3758
 
